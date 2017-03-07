@@ -1,0 +1,170 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.demo{
+	
+	padding-left:0px;
+	padding-right:0px;
+}
+.main{
+	background-color:rgb(138, 173, 31);
+	border:none;
+	border-radius:0px;
+	padding:11px;
+	}
+.main h1{
+	font-size:26px;
+	color:blue;
+	margin-top:0px;
+	margin-left:35px;
+}	
+	
+.menu li a{
+	color:green !important;
+}
+
+.item img{
+	width:100%;
+	height:700px !important;
+}
+.find{
+	background:rgb(204, 153, 255);
+	padding:15px;
+}
+
+.find h1{
+	text-align:center;
+	font-size:28px;
+	margin-top:4px;
+	color:#fff;
+}	
+.find p{
+	text-align:center;
+	font-size:16px;
+	margin-top:-12px;
+	color:#666666;
+}
+.log{
+	margin-left:595px;
+	margin-top:-5px;
+	font-size:18px;
+	
+}
+
+.picture{
+	background:green;
+	padding:22px;
+}
+.picture img{
+	width:190px;
+	height:190px;
+	padding-top:7px;
+	margin-left:103px;
+}
+.shit1{
+	background:green;
+	padding:20px;
+}
+.shit1 h1{
+	margin-left:264px;
+	font-size:26px;
+	color:white;
+}
+.shit1 p{
+	margin-left:34px;
+	font-size:16px;
+}
+.lon{
+	margin-left:322px;
+}
+.shit2{
+	background:green;
+	padding:0px;
+	padding:20px;
+}
+.shit2 h1{
+	font-size:26px;
+	color:white;
+}
+.shit2 p{
+	font-size:16px;
+}
+.less{
+	background:#996633;
+	margin-top:18px;
+	margin-bottom:18px;
+}
+.less h1{
+	font-size:26px;
+	text-align:center;
+	color:#4c4c4c;
+}
+.mof{
+	margin-top:-20px;
+}
+.bon1{
+	background:#000000;
+}
+.bon1 img{
+	width:140px;
+	height:140px;
+	padding-top:7px;
+	margin-left:100px;
+}
+.bon2{
+	background:#000000;
+}
+.bon2 img{
+	width:140px;
+	height:140px;
+	padding-top:7px;
+	margin-left:100px;
+}
+.bon3{
+	background:#000000;
+}
+.bon3 img{
+	width:140px;
+	height:140px;
+	padding-top:7px;
+	margin-left:100px;
+}
+.bon1 h1{
+	font-size:22px;
+	color:#4c4c4c;
+	margin-left:98px;
+}
+.bon1 p{
+	font-size:15px;
+	color:green;
+	margin-left:98px;
+}
+.bon2 h1{
+	font-size:22px;
+	color:#4c4c4c;
+	margin-left:98px;
+}
+.bon2 p{
+	font-size:15px;
+	color:green;
+	margin-left:98px;
+}
+.bon3 h1{
+	font-size:22px;
+	color:#4c4c4c;
+	margin-left:98px;
+}
+.bon3 p{
+	font-size:15px;
+	color:green;
+	margin-left:98px;
+}
+.navbar-brand{
+	color:#000000 !important;
+	font-size:26px;
+}
+.navbar-brand span{
+	color:green;
+	margin-left:10px;
+}
